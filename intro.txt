@@ -1,2 +1,3 @@
 Hi this is the introdduction to learn git and github 
 adding a second line for example
+adding 3rd line
